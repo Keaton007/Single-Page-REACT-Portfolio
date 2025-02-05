@@ -38,4 +38,4 @@
   If you have any questions about the repo, open an issue or contact me directly at [Keatonjonesy@gmail.com](mailto:Keatonjonesy@gmail.com). You can find more of my work at [Keaton007](https://github.com/Keaton007)
 
   ## Link to Live Page
-  https://keatonportfolio.netlify.app/
+  https://keatons-react-portfolio.netlify.app/
