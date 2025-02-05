@@ -1,0 +1,79 @@
+.resume-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 40px;
+    color: white;
+  }
+  
+  h2 {
+    color: #cbe957;
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+  
+  .resume-download {
+    margin-bottom: 30px;
+  }
+  
+  .download-btn {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: #c68dfe;
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 12px 20px;
+    border-radius: 8px;
+    transition: 0.3s ease;
+  }
+  
+  .download-btn:hover {
+    background: #cbe957;
+    color: #313743;
+  }
+  
+  .download-icon {
+    font-size: 20px;
+  }
+  
+  /* Skills Section */
+  .skills-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    width: 100%;
+    max-width: 900px;
+  }
+  
+  .skill-category {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  .skill-icon {
+    font-size: 30px;
+    margin-bottom: 10px;
+    color: #cbe957;
+  }
+  
+  h3 {
+    font-size: 22px;
+    margin-bottom: 10px;
+    color: #c68dfe;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  li {
+    font-size: 16px;
+    margin: 5px 0;
+  }
+  
